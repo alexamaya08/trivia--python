@@ -14,7 +14,7 @@ print ("Bienvenido a mi trivia sobre cultura general, comenzaras por algo basico
 time.sleep(1)
 nombre = input("\033[33mAntes escribe tu nombre: \033[39m")
 
-print("\n ¿como estas?\033[34m", nombre, "\033[39mescribe solo la letra a la opcion de tu respuesta\n")
+print("\n ¿cómo estas?\033[34m", nombre, "\033[39mescribe solo la letra a la opcion de tu respuesta\n")
 
 # Pregunta 1
 print ("\033[32m1) ¿En que año fue la independencia del Peru?\033[39m")
